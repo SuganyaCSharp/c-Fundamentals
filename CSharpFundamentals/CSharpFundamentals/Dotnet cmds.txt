@@ -1,0 +1,29 @@
+﻿    dotnet command
+dotnet --help
+dotnet add console
+dotnet new 
+dotnet restore
+dotnet build
+dotnet --info
+dotnet run
+dotnet mkdir (file name)
+dotnet sln add
+dotnet sln new 
+dotnet sln list
+
+    General Command
+cd=> change direction
+dir=> list all dictory
+cd..=> back
+
+EXE:executable file
+    1.An exe always runs in its own address space i.e., It is a separate process.
+    2.The purpose of an EXE is to launch a separate application of its own.
+
+ DLL:Dynamic LinkLibrary
+    1.A dll always needs a host exe to run. i.e., 
+it can never run in its own address space.
+    2.The purpose of a DLL is to have a collection of methods/classes 
+which can be re-used from some other application.
+    3.DLL is Microsoft's implementation of a shared library.
+
