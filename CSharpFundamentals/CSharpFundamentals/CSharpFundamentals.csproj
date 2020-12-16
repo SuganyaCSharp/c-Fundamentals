@@ -5,4 +5,12 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Dotnet cmds.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="Dotnet cmds.txt" />
+  </ItemGroup>
+
 </Project>
