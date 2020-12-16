@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpFundamentals", "CSharpFundamentals\CSharpFundamentals.csproj", "{8F8B4597-C1C5-4164-8BBA-94116CF8AED4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpFundamentals", "CSharpFundamentals\CSharpFundamentals.csproj", "{8F8B4597-C1C5-4164-8BBA-94116CF8AED4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValuetypeAndReferenceType", "ValuetypeAndReferenceType\ValuetypeAndReferenceType.csproj", "{ACC3AF67-6FDE-42B4-AE7C-47DF0E2DF4D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValuetypeAndReferenceType", "ValuetypeAndReferenceType\ValuetypeAndReferenceType.csproj", "{ACC3AF67-6FDE-42B4-AE7C-47DF0E2DF4D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryCatch", "TryCatch\TryCatch.csproj", "{BBB4EA16-4354-4DC7-BDBB-F3137EF1A678}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{ACC3AF67-6FDE-42B4-AE7C-47DF0E2DF4D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACC3AF67-6FDE-42B4-AE7C-47DF0E2DF4D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACC3AF67-6FDE-42B4-AE7C-47DF0E2DF4D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBB4EA16-4354-4DC7-BDBB-F3137EF1A678}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBB4EA16-4354-4DC7-BDBB-F3137EF1A678}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBB4EA16-4354-4DC7-BDBB-F3137EF1A678}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBB4EA16-4354-4DC7-BDBB-F3137EF1A678}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
